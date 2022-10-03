@@ -1,0 +1,29 @@
+.my-img {
+    border-radius: 20px;
+    background: #36454F;
+    width: 200px;
+    margin: 5px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    background: #ddebf8;
+    width: 600px;
+    margin: 50px auto;
+    text-align: center;
+    color: #2b2839;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    border-radius: 10px;
+    border-bottom: 8px solid #d8cefe;
+
+    padding: 20px;
+}
+
+.desc {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
